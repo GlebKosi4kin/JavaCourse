@@ -12,7 +12,9 @@ public class BmwCar {
 
         Bike harley = new Bike(5500, 23, "blue", new byte[]{2, 5, 1});
 
-        Airbus a320 = new Airbus(720, 30000, "white", new byte[]{23, 23, 11}, true);
+        Airbus a320 = new Airbus(720, 30000, "white", new byte[]{23, 23, 11}, false);
+
+
     }
 }
 
